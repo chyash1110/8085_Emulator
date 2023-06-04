@@ -1,0 +1,17 @@
+#include "Branching.h"
+#include "Logical.cpp"
+void CMA();
+void CMP(char);
+void SET(string,string);
+void CMC();
+void ANA(char);
+void ANI(string);
+void XRA(char);
+void XRI(string);
+void ORA(char);
+void ORI(string);
+void RLC();
+void RRC();
+void RAL();
+void RAR();
+void STC();
